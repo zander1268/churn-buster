@@ -1,11 +1,11 @@
 ,feature importance
-total day minutes,0.26046049954034056
-customer service calls,0.13224118188622255
-international plan,0.13122535302480026
-total intl minutes,0.09719004328527164
-total eve charge,0.06898025189849598
-total intl calls,0.059498594075591014
-voice mail plan,0.05423069588730302
-total eve minutes,0.0489066549862839
-total day charge,0.04859661434336193
-total night minutes,0.0320888552515246
+customer service calls,0.1483523855893043
+total day minutes,0.13755041365987208
+international plan,0.1285602708533699
+total day charge,0.11684914421521214
+total intl calls,0.044236475212723975
+total eve minutes,0.040994707438146635
+total eve charge,0.04008273506588883
+total intl minutes,0.027126223373840092
+total night minutes,0.025092343824349536
+total night charge,0.023027123409730756
