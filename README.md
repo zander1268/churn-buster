@@ -52,9 +52,9 @@ This predictive algorythm solves many of Telecom Inc.'s business challenges rela
 
 ### Limitations & Next Steps
 
-Further analyses could yield additional insights to further improve operations at AAC:
+Additional data and model tuning can further improve the model.
 
-- **Limitations** Our model misses 28% of churning. The final model is overly fit to training data because F1 score dropped significantly from training to test evaluation.
+- **Limitations** Our model misses 28% of churning customers. The final model is overly fit to training data because F1 score dropped significantly from training to test evaluation.
 - **Next Steps** More examples of churn customers to balance classes will improve overfitting issues. Adding customer payment information will improve accuracy. I can explore black-box models to improve recall.
 - **Predicting undesirable outcomes.** This modeling could identify animals that are more likely to have undesirable outcomes (e.g. Euthanasia) for targeted medical support or outreach.
  
