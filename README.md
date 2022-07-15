@@ -60,25 +60,21 @@ Further analyses could yield additional insights to further improve operations a
  
 ## For More Information
 
-See the full analysis in the [Jupyter Notebook](./animal-shelter-needs-analysis.ipynb) or review this [presentation](./Animal_Shelter_Needs_Presentation.pdf).
+See the full analysis in the [Jupyter Notebook](./Code/modeling.ipynb) or review this [presentation](./Churn_Buster_presentation.pdf).
 
-For additional info, contact Alison Peebles Madigan at [alison.peeblesmadigan@flatironschool.com](mailto:alison.peeblesmadigan@flatironschool.com)
-
-![logo](./images/aac_logo_tall.jpg)
-
+For additional info, contact Alex FitzGerald
 
 ## Repository Structure
 
 ```
-├── code
-│   ├── __init__.py
-│   ├── data_preparation.py
-│   ├── visualizations.py
-│   └── eda_notebook.ipynb
-├── data
-├── images
-├── __init__.py
-├── README.md
-├── Animal_Shelter_Needs_Presentation.pdf
-└── animal_shelter_needs_analysis.ipynb
+├── Code
+│   ├── EDA_notebook.ipynb
+│   ├── modeling.ipynb
+├── Data
+│   ├── churn-in-telecoms-dataset.csv
+│   ├── cleaned_data.csv
+│   ├── feature_importances.csv
+├── Visuals
+├── Churn_Buster_presentation.pdf
+└── README.md
 ```
