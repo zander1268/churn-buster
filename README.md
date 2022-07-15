@@ -46,9 +46,9 @@ The final model is interpretable which is very useful for Telecom Inc. They can 
 ## Conclusions
 
 This predictive algorythm solves many of Telecom Inc.'s business challenges related to customer churn
-- **Identifies customers who are likely to churn
-- **Seperates high risk customers from low risk customers so they can focus support resources where it's most needed
-- **Identifies key features connected with churn so customer support can engage high risk customers with personalized account saving interventions like discounts or additional support.
+- **Identifies customers who are likely to churn**
+- **Seperates high risk customers from low risk customers so they can focus support resources where it's most needed**
+- **Identifies key features connected with churn so customer support can engage high risk customers with personalized account saving interventions like discounts or additional support.**
 
 ### Limitations & Next Steps
 
