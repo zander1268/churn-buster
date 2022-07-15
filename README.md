@@ -3,7 +3,6 @@
 **Author**: [Alex FitzGerald](https://www.linkedin.com/in/alex-fitzgerald-0734076a/)
 
 ![telecom inc header](Visuals/Telecom_inc_header.png)
-[](Visuals/Telecom_inc_header.png)
 
 ## Overview
 
@@ -31,13 +30,13 @@ The final model significantly improved Telecom Inc.'s ability to predict which c
 -- **Precision:** 0.90
 -- **Recall:** 0.72
 
-![Precision & Recall Curve](./visuals/Final_Model_Precision_Recall.png)
+![Precision & Recall Curve](Visuals/Final_Model_Precision_Recall.png)
 Our model balances recall and precision to meet Telecom Inc.'s business need to identify high risk customers without overpredicting churn.
 
-![Confusion Matrix](./visuals/rf_confusion_matrix.png)
+![Confusion Matrix](Visuals/rf_confusion_matrix.png)
 The final model makes correct predictions 95% of the time. The model is very strong at correctly predicting which customers are unlikely to churn and minimizing false positives. The model struggles more with capturing all churned customers although when it does predict churn, it's highly accurate.
 
-![Customer Service Calls](./visuals/Customer_Service_Calls_Day_Minutes.png)
+![Customer Service Calls](Visuals/Customer_Service_Calls_Day_Minutes.png)
 The final model is interpretable which is very useful for Telecom Inc. They can use the model to identify a given customer's churn likelihood and which factors influenced their risk profile. Armed with this information, they can take targeted interventions to save the customer. For example, if the customer has many customer service calls, Telecom Inc. can pair them with their most experiences customer service reps to give them the best experience possible. If the customer has a lot of day-time usage, we can offer them a discount on the service. For customers that aren't at risk of churning, they can withhold costly interventions.
 
 
