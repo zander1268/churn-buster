@@ -26,9 +26,9 @@ This project focuses on solving a classification problem with a predictive data 
 
 ## Results
 The final model significantly improved Telecom Inc.'s ability to predict which customers are likely to churn. Compared to a baseline model, the final model improved F1 score by 0.55. 
--- **F1 Score: 0.80**
--- **Precision:** 0.90
--- **Recall:** 0.72
+- **F1 Score: 0.80**
+- **Precision:** 0.90
+- **Recall:** 0.72
 
 ![Precision & Recall Curve](Visuals/Final_Model_Precision_Recall.png)
 Our model balances recall and precision to meet Telecom Inc.'s business need to identify high risk customers without overpredicting churn.
@@ -43,10 +43,9 @@ The final model is interpretable which is very useful for Telecom Inc. They can 
 ## Conclusions
 
 This predictive tool to three recommendations for improving operations of the Austin Animal Center:
-
--- **Engage in targeted outreach campaigns for dogs that have been sheltered at AAC for more than 30 days.** While most dogs will have been placed after 30 days, this may help reduce the number of dogs that end up having extended stays, potentially requiring many more months of care.
--- **Reduce current spending until the numbers of intakes and sheltered animals return to normal.** Given the reduced activity during this period, AAC should consider ways to temporarily reduce costs by changing space utilization or staffing.
--- **Hire seasonal staff and rent temporary space for May through December.** To accommodate the high volume of intakes and number of sheltered animals in the spring and fall, AAC should leverage seasonal resources, rather than full-year ones. This will allow AAC to cut back on expenditures during the months when there is lower
+- **Engage in targeted outreach campaigns for dogs that have been sheltered at AAC for more than 30 days.** While most dogs will have been placed after 30 days, this may help reduce the number of dogs that end up having extended stays, potentially requiring many more months of care.
+- **Reduce current spending until the numbers of intakes and sheltered animals return to normal.** Given the reduced activity during this period, AAC should consider ways to temporarily reduce costs by changing space utilization or staffing.
+- **Hire seasonal staff and rent temporary space for May through December.** To accommodate the high volume of intakes and number of sheltered animals in the spring and fall, AAC should leverage seasonal resources, rather than full-year ones. This will allow AAC to cut back on expenditures during the months when there is lower
 
 ### Limitations & Next Steps
 
@@ -55,7 +54,7 @@ Further analyses could yield additional insights to further improve operations a
 - **Limitations** Our model misses 28% of churning. The final model is overly fit to training data because F1 score dropped significantly from training to test evaluation.
 - **Next Steps** More examples of churn customers to balance classes will improve overfitting issue. Adding customer payment information will improve accuracy. I can explore black-box models to improve recall.
 - **Predicting undesirable outcomes.** This modeling could identify animals that are more likely to have undesirable outcomes (e.g. Euthanasia) for targeted medical support or outreach.
-
+ 
 ## For More Information
 
 See the full analysis in the [Jupyter Notebook](./animal-shelter-needs-analysis.ipynb) or review this [presentation](./Animal_Shelter_Needs_Presentation.pdf).
