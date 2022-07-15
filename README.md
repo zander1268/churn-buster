@@ -2,7 +2,8 @@
 
 **Author**: [Alex FitzGerald](https://www.linkedin.com/in/alex-fitzgerald-0734076a/)
 
-[telecom inc header](/Visuals/Telecom_inc_header.png)
+[telecom inc header](Visuals/Telecom_inc_header.png)
+[](Visuals/Telecom_inc_header.png)
 
 ## Overview
 
