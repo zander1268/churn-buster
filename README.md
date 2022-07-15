@@ -45,10 +45,10 @@ The final model is interpretable which is very useful for Telecom Inc. They can 
 
 ## Conclusions
 
-This predictive tool to three recommendations for improving operations of the Austin Animal Center:
-- **Engage in targeted outreach campaigns for dogs that have been sheltered at AAC for more than 30 days.** While most dogs will have been placed after 30 days, this may help reduce the number of dogs that end up having extended stays, potentially requiring many more months of care.
-- **Reduce current spending until the numbers of intakes and sheltered animals return to normal.** Given the reduced activity during this period, AAC should consider ways to temporarily reduce costs by changing space utilization or staffing.
-- **Hire seasonal staff and rent temporary space for May through December.** To accommodate the high volume of intakes and number of sheltered animals in the spring and fall, AAC should leverage seasonal resources, rather than full-year ones. This will allow AAC to cut back on expenditures during the months when there is lower
+This predictive algorythm solves many of Telecom Inc.'s business challenges related to customer churn
+- **Identifies customers who are likely to churn
+- **Seperates high risk customers from low risk customers so they can focus support resources where it's most needed
+- **Identifies key features connected with churn so customer support can engage high risk customers with personalized account saving interventions like discounts or additional support.
 
 ### Limitations & Next Steps
 
